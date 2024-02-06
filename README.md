@@ -24,7 +24,8 @@ This web scraping project is developed using Python and Selenium for browser aut
 - Modular and extensible web scraping structure
 - Asynchronous web scraping using asyncio
 - Scraping data from various sections of clothing retail websites
-- Saving and reading data to/from JSON files
+- Saving and reading data from JSON files
+- Saving and reading data to CSV files
 - Demonstrating object-oriented programming (OOP) principles
 
 ## Requirements
@@ -46,7 +47,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/clothes-shop-scraper.git
+git clone https://github.com/Ahmed9190/clothes_shop_scraper
 ```
 
 2. Navigate to the project directory:
