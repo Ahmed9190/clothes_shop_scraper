@@ -1,0 +1,5 @@
+selenium==4.17.2
+aiohttp==3.9.3
+pyppeteer2==0.2.2
+wheel==0.42.0
+asyncio==3.4.3
