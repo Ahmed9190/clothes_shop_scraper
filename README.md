@@ -33,8 +33,7 @@ Ensure you have the following prerequisites installed:
 
 - Python 3.x
 - [Selenium](https://www.selenium.dev/) for browser automation
-- [Aiohttp](https://docs.aiohttp.org/) for asynchronous HTTP requests
-- [Pyppeteer](https://pypi.org/project/pyppeteer/) for controlling headless browsers (if needed)
+- [AsyncIO](https://docs.python.org/3/library/asyncio.html) for asynchronous programming
 
 Install project dependencies using:
 
